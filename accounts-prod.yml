@@ -4,7 +4,7 @@ accounts:
   message: "This is the prod accounts microservice"
   contactDetails:
     name: "xyzProd"
-    email: "xyzProd@gmail.com"
+    email: "4f0679b33731fafe03a823e4c5f11939b928c8cae42d94e55c0be328d3d6e9a205f08b42be2f9e453e6c7475cd5f9258"
   onCallSupport:
     - (777) 555-1234
     - (777) 555-1235
