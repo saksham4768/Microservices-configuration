@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+cards:
+  message: "This is the cards microservice"
+  contactDetails:
+    name: "xyz"
+    email: "xyz@gmail.com"
+  onCallSupport:
+    - (555) 666-1234
+    - (555) 666-1235

@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+loans:
+  message: "This is the loans microservice"
+  contactDetails:
+    name: "xyz"
+    email: "xyz@gmail.com"
+  onCallSupport:
+    - (999) 666-1234
+    - (999) 666-1235
